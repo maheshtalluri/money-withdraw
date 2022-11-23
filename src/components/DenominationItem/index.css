@@ -1,0 +1,11 @@
+/* Write your CSS here */
+
+.value {
+  color: #c4c4c4;
+  background-color: #585076;
+  border: 2px solid #382f5a;
+  width: 80px;
+  text-align: center;
+  margin: 20px;
+  cursor: pointer;
+}

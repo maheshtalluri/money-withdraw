@@ -1,0 +1,68 @@
+/* Write your CSS here */
+
+.bg-container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-container {
+  background-color: #150b3e;
+  padding: 20px;
+  border-radius: 16px;
+}
+
+.profile-container {
+  display: flex;
+}
+
+.profile {
+  background-color: #c7d2fe;
+  color: #7c3aed;
+  height: 40px;
+  width: 40px;
+  border-radius: 20px;
+  padding-left: 18px;
+  padding-top: 12px;
+  font-size: 10px;
+  font-weight: bold;
+}
+
+.profile-name {
+  color: #d4d2db;
+  margin-left: 20px;
+}
+
+.balance-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.balance {
+  color: #585076;
+}
+
+.money {
+  color: #d4d2db;
+}
+
+.rupee {
+  color: #585076;
+}
+
+.heading {
+  color: #d4d2db;
+  font-size: 20px;
+}
+
+.para {
+  color: #585076;
+  font-size: 10px;
+}
+
+.value-container {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+}
